@@ -9,4 +9,8 @@
     <td>Rodrigo Andrade</td>
     <td>Professor</td>
   </tr>
+  <tr>
+    <td>Gerson Fernandes</td>
+    <td>Estagiario</td>
+  </tr>
 </table>
