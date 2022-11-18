@@ -33,4 +33,8 @@
      <th>Júlio Henrique Rodrigues</th>
      <th>Coordenador de Sustentação e Mobile</th>
    </tr>
+   <tr>
+    <td>João Bosco Jr</td>
+    <td>analista de software jr</td>
+  </tr>
 </table>
