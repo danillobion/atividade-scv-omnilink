@@ -14,7 +14,22 @@
     <td>Analista de Software</td>
   </tr>
   <tr>
+<<<<<<< HEAD
     <td>Felipe Libório</td>
     <td>Desenvolvedor</td>
   </tr>
 </table>
+=======
+    <td>Danillo Bion</td>
+    <td>Desenvolvedor Front-end</td>
+  </tr>
+  <tr>
+    <td>Eberson Santos</td>
+    <td>Desenvolvedor Pleno</td>
+  </tr>
+  <tr>
+    <td>Felipe Libório</td>
+    <td>Desenvolvedor</td>
+  </tr>
+</table>
+>>>>>>> a84c6ff1b211197a8cec63a05bc6bfada15106da
