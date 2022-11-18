@@ -30,11 +30,15 @@
     <td>Desenvolvedor</td>
   </tr>
    <tr>
-     <th>Júlio Henrique Rodrigues</th>
-     <th>Coordenador de Sustentação e Mobile</th>
+     <td>Júlio Henrique Rodrigues</td>
+     <td>Coordenador de Sustentação e Mobile</td>
    </tr>
    <tr>
     <td>João Bosco Jr</td>
     <td>analista de software jr</td>
+  </tr>
+    <tr>
+    <td>Gerson Fernandes</td>
+    <td>Estagiario</td>
   </tr>
 </table>
