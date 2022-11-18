@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th>Nome</th>
+     <th>Nome</th>
     <th>Fun&ccedil;&atilde;o na Omnilink Tecnologia</th>
   </tr>
   <tr>
@@ -14,12 +14,10 @@
     <td>Analista de Software</td>
   </tr>
   <tr>
-<<<<<<< HEAD
     <td>Felipe Libório</td>
     <td>Desenvolvedor</td>
   </tr>
-</table>
-=======
+  <tr>
     <td>Danillo Bion</td>
     <td>Desenvolvedor Front-end</td>
   </tr>
@@ -31,5 +29,8 @@
     <td>Felipe Libório</td>
     <td>Desenvolvedor</td>
   </tr>
+   <tr>
+     <th>Júlio Henrique Rodrigues</th>
+     <th>Coordenador de Sustentação e Mobile</th>
+   </tr>
 </table>
->>>>>>> a84c6ff1b211197a8cec63a05bc6bfada15106da
