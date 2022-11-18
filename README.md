@@ -41,4 +41,8 @@
     <td>Gerson Fernandes</td>
     <td>Estagiario</td>
   </tr>
+  <tr>
+    <td>Gilson Moraes</td>
+    <td>Designer UX UI</td>
+  </tr>
 </table>
